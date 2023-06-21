@@ -1,0 +1,252 @@
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\Nhom15_BaybyStore.exe.config
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\Nhom15_BaybyStore.exe
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\Nhom15_BaybyStore.pdb
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\BUS.dll
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DTO.dll
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\FontAwesome.Sharp.dll
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\BUS.pdb
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DTO.pdb
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.CaLam.resources
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.CuaHang.resources
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DangKy.resources
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DangNhap.resources
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DoanhMucSanPham.resources
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DoanhThu.resources
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.HienThiHoaDon.resources
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.Home.resources
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.KhachHang.resources
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.QLKhachHang.resources
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.NhaCungCap.resources
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.NhanVien.resources
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.Properties.Resources.resources
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.QuayBan.resources
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.SanPham.resources
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.TaiKhoan.resources
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.CopyComplete
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.exe
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.pdb
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DAL.dll
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DAL.pdb
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.GopY.resources
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.LichSuMuaHang.resources
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.ThongTinCaNhan.resources
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\Nhom15_BaybyStore.exe.config
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\Nhom15_BaybyStore.exe
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\Nhom15_BaybyStore.pdb
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\BUS.dll
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DTO.dll
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\FontAwesome.Sharp.dll
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DAL.dll
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\BUS.pdb
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DTO.pdb
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DAL.pdb
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.CaLam.resources
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.CuaHang.resources
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DangKy.resources
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DangNhap.resources
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DoanhMucSanPham.resources
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DoanhThu.resources
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.GopY.resources
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.HienThiHoaDon.resources
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.Home.resources
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.KhachHang.resources
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.LichSuMuaHang.resources
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.QLKhachHang.resources
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.NhaCungCap.resources
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.NhanVien.resources
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.Properties.Resources.resources
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.QuayBan.resources
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.SanPham.resources
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.TaiKhoan.resources
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.ThongTinCaNhan.resources
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.CopyComplete
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.exe
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.pdb
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\Nhom15_BaybyStore.exe.config
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\Nhom15_BaybyStore.exe
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\Nhom15_BaybyStore.pdb
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\BUS.dll
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DTO.dll
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\FontAwesome.Sharp.dll
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DAL.dll
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\BUS.pdb
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DTO.pdb
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DAL.pdb
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.AssemblyReference.cache
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.CaLam.resources
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.CuaHang.resources
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DangKy.resources
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DangNhap.resources
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DoanhMucSanPham.resources
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DoanhThu.resources
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.GopY.resources
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.HienThiHoaDon.resources
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.Home.resources
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.KhachHang.resources
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.LichSuMuaHang.resources
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.QLKhachHang.resources
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.NhaCungCap.resources
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.NhanVien.resources
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.Properties.Resources.resources
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.QuayBan.resources
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.SanPham.resources
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.TaiKhoan.resources
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.ThongTinCaNhan.resources
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.GenerateResource.cache
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.CopyComplete
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.exe
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.pdb
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\Nhom15_BaybyStore.exe.config
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\Nhom15_BaybyStore.exe
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\Nhom15_BaybyStore.pdb
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\BUS.dll
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DTO.dll
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\FontAwesome.Sharp.dll
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DAL.dll
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\BUS.pdb
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DTO.pdb
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DAL.pdb
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.CaLam.resources
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.CuaHang.resources
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DangKy.resources
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DangNhap.resources
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DoanhMucSanPham.resources
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DoanhThu.resources
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.GopY.resources
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.HienThiHoaDon.resources
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.Home.resources
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.KhachHang.resources
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.LichSuMuaHang.resources
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.QLKhachHang.resources
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.NhaCungCap.resources
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.NhanVien.resources
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.Properties.Resources.resources
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.QuayBan.resources
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.SanPham.resources
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.TaiKhoan.resources
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.ThongTinCaNhan.resources
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.CopyComplete
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.exe
+D:\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.pdb
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\Nhom15_BaybyStore.exe.config
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\Nhom15_BaybyStore.exe
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\Nhom15_BaybyStore.pdb
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\BUS.dll
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DTO.dll
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\FontAwesome.Sharp.dll
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DAL.dll
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\BUS.pdb
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DTO.pdb
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DAL.pdb
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.CaLam.resources
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.CuaHang.resources
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DangKy.resources
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DangNhap.resources
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DoanhMucSanPham.resources
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DoanhThu.resources
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.GopY.resources
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.HienThiHoaDon.resources
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.Home.resources
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.KhachHang.resources
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.LichSuMuaHang.resources
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.QLKhachHang.resources
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.NhaCungCap.resources
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.NhanVien.resources
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.Properties.Resources.resources
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.QuayBan.resources
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.SanPham.resources
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.TaiKhoan.resources
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.ThongTinCaNhan.resources
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.CopyComplete
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.exe
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.pdb
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.QLDanhGia.resources
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\Nhom15_BaybyStore.exe.config
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\Nhom15_BaybyStore.exe
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\Nhom15_BaybyStore.pdb
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\BUS.dll
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DTO.dll
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\FontAwesome.Sharp.dll
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DAL.dll
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\BUS.pdb
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DTO.pdb
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DAL.pdb
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.CaLam.resources
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.CuaHang.resources
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DangKy.resources
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DangNhap.resources
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.QLDanhGia.resources
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DoanhMucSanPham.resources
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DoanhThu.resources
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.GopY.resources
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.HienThiHoaDon.resources
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.Home.resources
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.KhachHang.resources
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.LichSuMuaHang.resources
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.QLKhachHang.resources
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.NhaCungCap.resources
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.NhanVien.resources
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.Properties.Resources.resources
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.QuayBan.resources
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.SanPham.resources
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.TaiKhoan.resources
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.ThongTinCaNhan.resources
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.CopyComplete
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.exe
+C:\do an nhom 1\Project\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.pdb
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\Nhom15_BaybyStore.exe.config
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\Nhom15_BaybyStore.exe
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\Nhom15_BaybyStore.pdb
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\BUS.dll
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DTO.dll
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\FontAwesome.Sharp.dll
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DAL.dll
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\BUS.pdb
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DTO.pdb
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\bin\Debug\DAL.pdb
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.CaLam.resources
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.CuaHang.resources
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DangKy.resources
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DangNhap.resources
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.QLDanhGia.resources
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DoanhMucSanPham.resources
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.DoanhThu.resources
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.GopY.resources
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.HienThiHoaDon.resources
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.Home.resources
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.KhachHang.resources
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.LichSuMuaHang.resources
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.QLKhachHang.resources
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.NhaCungCap.resources
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.NhanVien.resources
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.Properties.Resources.resources
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.QuayBan.resources
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.SanPham.resources
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.TaiKhoan.resources
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.ThongTinCaNhan.resources
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\GUI.csproj.CopyComplete
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.exe
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\Nhom15_BaybyStore\obj\Debug\Nhom15_BaybyStore.pdb
