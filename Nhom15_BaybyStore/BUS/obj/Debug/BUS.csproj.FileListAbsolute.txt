@@ -1,0 +1,77 @@
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\BUS\bin\Debug\BUS.dll
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\BUS\bin\Debug\BUS.pdb
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\BUS\bin\Debug\DAL.dll
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\BUS\bin\Debug\DTO.dll
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\BUS\bin\Debug\DAL.pdb
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\BUS\bin\Debug\DTO.pdb
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.dll
+D:\Study\2022-2023\HK1\Hệ quản trị CSDL\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.pdb
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\BUS\bin\Debug\BUS.dll
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\BUS\bin\Debug\BUS.pdb
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\BUS\bin\Debug\DAL.dll
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\BUS\bin\Debug\DTO.dll
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\BUS\bin\Debug\DAL.pdb
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\BUS\bin\Debug\DTO.pdb
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.csproj.CopyComplete
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.dll
+\\Mac\Home\Desktop\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.pdb
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\BUS\bin\Debug\BUS.dll
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\BUS\bin\Debug\BUS.pdb
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\BUS\bin\Debug\DAL.dll
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\BUS\bin\Debug\DTO.dll
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\BUS\bin\Debug\DAL.pdb
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\BUS\bin\Debug\DTO.pdb
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.csproj.CopyComplete
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.dll
+\\Mac\iCloud\MyClass\BIGDATA\C10\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.pdb
+D:\Project\Nhom15_BaybyStore\BUS\bin\Debug\BUS.dll
+D:\Project\Nhom15_BaybyStore\BUS\bin\Debug\BUS.pdb
+D:\Project\Nhom15_BaybyStore\BUS\bin\Debug\DAL.dll
+D:\Project\Nhom15_BaybyStore\BUS\bin\Debug\DTO.dll
+D:\Project\Nhom15_BaybyStore\BUS\bin\Debug\DAL.pdb
+D:\Project\Nhom15_BaybyStore\BUS\bin\Debug\DTO.pdb
+D:\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.dll
+D:\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.pdb
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\BUS\bin\Debug\BUS.dll
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\BUS\bin\Debug\BUS.pdb
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\BUS\bin\Debug\DAL.dll
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\BUS\bin\Debug\DTO.dll
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\BUS\bin\Debug\DAL.pdb
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\BUS\bin\Debug\DTO.pdb
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.csproj.CopyComplete
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.dll
+\\Mac\Home\Downloads\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.pdb
+C:\do an nhom 1\Project\Nhom15_BaybyStore\BUS\bin\Debug\BUS.dll
+C:\do an nhom 1\Project\Nhom15_BaybyStore\BUS\bin\Debug\BUS.pdb
+C:\do an nhom 1\Project\Nhom15_BaybyStore\BUS\bin\Debug\DAL.dll
+C:\do an nhom 1\Project\Nhom15_BaybyStore\BUS\bin\Debug\DTO.dll
+C:\do an nhom 1\Project\Nhom15_BaybyStore\BUS\bin\Debug\DAL.pdb
+C:\do an nhom 1\Project\Nhom15_BaybyStore\BUS\bin\Debug\DTO.pdb
+C:\do an nhom 1\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\do an nhom 1\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\do an nhom 1\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\do an nhom 1\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.dll
+C:\do an nhom 1\Project\Nhom15_BaybyStore\BUS\obj\Debug\BUS.pdb
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\BUS\bin\Debug\BUS.dll
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\BUS\bin\Debug\BUS.pdb
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\BUS\bin\Debug\DAL.dll
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\BUS\bin\Debug\DTO.dll
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\BUS\bin\Debug\DAL.pdb
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\BUS\bin\Debug\DTO.pdb
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\BUS\obj\Debug\BUS.dll
+D:\Image\Nhom15_Baocaodoancuoiky\Sourcecode\Nhom15_BaybyStore\BUS\obj\Debug\BUS.pdb
